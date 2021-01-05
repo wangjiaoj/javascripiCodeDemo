@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "babel-core": "^6.10.4",
     "babel-plugin-transform-async-to-generator": "^6.8.0",
     "chalk": "^1.1.3",
